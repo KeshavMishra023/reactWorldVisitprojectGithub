@@ -51,11 +51,11 @@ The following dependencies are used in this project:
 ```json
 {
   "dependencies": {
+    "axios": "^1.8.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-router-dom": "^6.0.0",
-    "react-icons": "^4.0.0",
-    "axios": "^1.0.0"
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^7.4.0"
   }
 }
 ```
