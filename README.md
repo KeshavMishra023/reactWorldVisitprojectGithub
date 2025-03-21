@@ -60,16 +60,6 @@ The following dependencies are used in this project:
 }
 ```
 
-## API Integration
-This project uses **Axios** to fetch data from APIs. Example:
-```js
-import axios from 'axios';
-
-axios.get('https://api.example.com/data')
-  .then(response => console.log(response.data))
-  .catch(error => console.error(error));
-```
-
 ## Deployment
 To deploy the project:
 ```sh
@@ -77,10 +67,4 @@ npm run build
 ```
 This will generate a **build/** folder, which can be hosted on platforms like **Vercel**, **Netlify**, or **GitHub Pages**.
 
-## License
-This project is open-source and available under the **MIT License**.
-
----
-
-Feel free to modify this README as per your project requirements! 🚀
 
