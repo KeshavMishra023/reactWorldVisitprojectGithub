@@ -1,0 +1,128 @@
+[
+    {
+      "id": 1,
+      "countryName": "World",
+      "capital": "No Capital",
+      "population": "Null",
+      "interestingFact": "There are 195 countries in the world today, including 193 United Nations member states and 2 observer states."
+    },
+    {
+      "id": 2,
+      "countryName": "Nepal",
+      "capital": "Kathmandu",
+      "population": 29609623,
+      "interestingFact": "Nepal is home to Mount Everest, the tallest mountain in the world, standing at 8,848 meters."
+    },
+    {
+      "id": 3,
+      "countryName": "Egypt",
+      "capital": "Cairo",
+      "population": 104258327,
+      "interestingFact": "The Pyramids of Giza are one of the Seven Wonders of the Ancient World."
+    },
+    {
+      "id": 4,
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "population": 25687041,
+      "interestingFact": "Australia is home to the Great Barrier Reef, the largest coral reef system in the world."
+    },
+    {
+      "id": 5,
+      "countryName": "Brazil",
+      "capital": "Brasilia",
+      "population": 213993437,
+      "interestingFact": "Brazil is home to the Amazon Rainforest, the largest tropical rainforest in the world."
+    },
+    {
+      "id": 6,
+      "countryName": "France",
+      "capital": "Paris",
+      "population": 67407241,
+      "interestingFact": "The Eiffel Tower in Paris was once the tallest man-made structure in the world."
+    },
+    {
+      "id": 7,
+      "countryName": "Russia",
+      "capital": "Moscow",
+      "population": 1324216107,
+      "interestingFact": "Russia is the largest country in the world by area, covering more than 17 million square kilometers."
+    },
+    {
+      "id": 8,
+      "countryName": "China",
+      "capital": "Beijing",
+      "population": 1444216107,
+      "interestingFact": "The Great Wall of China is visible from space on rare occasions."
+    },
+      {
+        "id": 9,
+        "countryName": "United States",
+        "capital": "Washington, D.C.",
+        "population": 331002651,
+        "interestingFact": "The United States has the world's largest economy by nominal GDP."
+      },
+      {
+        "id": 10,
+        "countryName": "Canada",
+        "capital": "Ottawa",
+        "population": 38005238,
+        "interestingFact": "Canada has the longest coastline of any country in the world."
+      },
+      {
+        "id": 11,
+        "countryName": "India",
+        "capital": "New Delhi",
+        "population": 1393409038,
+        "interestingFact": "India is the world's largest democracy with over 1.4 billion people."
+      },
+      {
+        "id": 12,
+        "countryName": "Germany",
+        "capital": "Berlin",
+        "population": 83240525,
+        "interestingFact": "Germany is home to the world's largest beer festival, Oktoberfest."
+      },
+      {
+        "id": 13,
+        "countryName": "Japan",
+        "capital": "Tokyo",
+        "population": 125960000,
+        "interestingFact": "Japan has more than 6,800 islands in its archipelago."
+      },
+      {
+        "id": 14,
+        "countryName": "South Korea",
+        "capital": "Seoul",
+        "population": 51780579,
+        "interestingFact": "South Korea has the fastest internet speed in the world."
+      },
+      {
+        "id": 15,
+        "countryName": "United Kingdom",
+        "capital": "London",
+        "population": 67886011,
+        "interestingFact": "Big Ben is actually the nickname for the Great Bell inside the clock tower."
+      },
+      {
+        "id": 16,
+        "countryName": "Italy",
+        "capital": "Rome",
+        "population": 60244639,
+        "interestingFact": "Rome is home to Vatican City, the smallest country in the world."
+      },
+      {
+        "id": 17,
+        "countryName": "Mexico",
+        "capital": "Mexico City",
+        "population": 128932753,
+        "interestingFact": "Mexico introduced chocolate, chilies, and corn to the world."
+      },
+      {
+        "id": 18,
+        "countryName": "South Africa",
+        "capital": "Pretoria, Cape Town, Bloemfontein",
+        "population": 59308690,
+        "interestingFact": "South Africa is the only country with three capital cities."
+      }
+  ]
