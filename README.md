@@ -1,12 +1,86 @@
-# React + Vite
+# React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React.js project built with **React 19**, **React Router DOM**, **React Icons**, and **Axios** for handling API requests.
 
-Currently, two official plugins are available:
+## Features
+- **React 19**: Latest version for optimized performance.
+- **React Router DOM**: For handling navigation within the app.
+- **React Icons**: To enhance UI with beautiful icons.
+- **Axios**: For making API calls efficiently.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+Follow these steps to run the project locally:
 
-## Expanding the ESLint configuration
+### Prerequisites
+Make sure you have **Node.js** installed on your system.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Steps to Run
+1. **Clone the Repository**
+   ```sh
+   git clone <repository-url>
+   ```
+2. **Navigate to Project Directory**
+   ```sh
+   cd project-folder-name
+   ```
+3. **Install Dependencies**
+   ```sh
+   npm install
+   ```
+4. **Start the Development Server**
+   ```sh
+   npm start
+   ```
+
+## Folder Structure
+```
+project-folder/
+│-- src/
+│   ├── components/      # Reusable React components
+│   ├── pages/           # Different pages for the app
+│   ├── assets/          # Images and other static files
+│   ├── App.js           # Main component
+│   ├── index.js         # Entry point
+│-- public/
+│-- package.json
+│-- README.md
+```
+
+## Dependencies
+The following dependencies are used in this project:
+```json
+{
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^6.0.0",
+    "react-icons": "^4.0.0",
+    "axios": "^1.0.0"
+  }
+}
+```
+
+## API Integration
+This project uses **Axios** to fetch data from APIs. Example:
+```js
+import axios from 'axios';
+
+axios.get('https://api.example.com/data')
+  .then(response => console.log(response.data))
+  .catch(error => console.error(error));
+```
+
+## Deployment
+To deploy the project:
+```sh
+npm run build
+```
+This will generate a **build/** folder, which can be hosted on platforms like **Vercel**, **Netlify**, or **GitHub Pages**.
+
+## License
+This project is open-source and available under the **MIT License**.
+
+---
+
+Feel free to modify this README as per your project requirements! 🚀
+
